@@ -29,6 +29,7 @@
     "timsort": "=0.3.0",
     "which": "=2.0.2",
     "yauzl": "=2.10.0",
+    "moxie-zip": "=0.0.3",
     "yazl": "=2.5.1"
   },
   "devDependencies": {
